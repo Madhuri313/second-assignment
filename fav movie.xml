@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Movies</title>
+</head>
+<body>
+    <h1 style="text-align:center;">My Favorite Movies</h1>
+    
+    <ol>
+        <li>
+            <h2>Fidhaa</h2>
+            <img src="https://www.bing.com/images/search?view=detailV2&ccid=bKiDkqG%2f&id=D5E35486270D5405390C19AACAF0090FA50877C5&thid=OIP.bKiDkqG_jQdtayqMOeS4zAHaEi&mediaurl=https%3a%2f%2f3.bp.blogspot.com%2f-JOk5HdB9L2I%2fWXNp1oYNYlI%2fAAAAAAAAEGA%2f56JU0AWU61wMz6rprw30m1AkeZkgl1TzgCLcBGAs%2fs1600%2funnamed.jpg&exph=300&expw=489&q=fidha+movie+telugu+poster&simid=608019202243825315&FORM=IRPRST&ck=E0E325073B310C3C77167CA4F81D37BE&selectedIndex=3&itb=0" alt="Movie 1 Poster">
+        </li>
+        <li>
+            <h2>Dhruva</h2>
+            <img src="https://www.bing.com/images/search?view=detailV2&ccid=dOsV3Yg%2f&id=1146A83096AB6DACFFDFBE68E8E0DBEA40D08972&thid=OIP.dOsV3Yg_uRAOuIJootXGoAHaKX&mediaurl=https%3a%2f%2fmovie.webindia123.com%2fmovie%2f2016%2fRegional%2fAugust%2fDhruva%2ffirstlook%2fDhruva2.jpg&exph=1024&expw=732&q=dhruva+movie+telugu+poster&simid=608047209728327357&FORM=IRPRST&ck=7F7BC7899FC1471928C2A66F09AC08B5&selectedIndex=6&itb=0" alt="Movie 2 Poster">
+        </li>
+        <li>
+            <h2>Godavari</h2>
+            <img src="https://www.bing.com/images/search?view=detailV2&ccid=XW9ol72S&id=0C70E9DFA095195CD4D5060DAA5C349FB4B2C607&thid=OIP.XW9ol72SGm4_OhCk1DXtHgHaOG&mediaurl=https%3a%2f%2fm.media-amazon.com%2fimages%2fM%2fMV5BMjYxYjYyY2EtNzBkNS00MDhlLTlmYzEtYmJmM2QyOTE5NmRlXkEyXkFqcGdeQXVyNDI4OTkwNjE%40._V1_UY1200_CR108%2c0%2c630%2c1200_AL_.jpg&exph=1200&expw=630&q=godhavari+movie+telugu+poster&simid=608039491650873955&FORM=IRPRST&ck=270B935E1A087B842EEA414631A5A88F&selectedIndex=7&itb=0" alt="Movie 3 Poster">
+        </li>
+    </ol>
+
+</body>
+</html>
